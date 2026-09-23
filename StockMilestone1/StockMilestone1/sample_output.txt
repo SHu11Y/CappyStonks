@@ -1,0 +1,22 @@
+====================================
+   Historical Stock Data Analyzer
+====================================
+Available tickers: AAPL, AMZN, AVGO, BRK, GOOGL, LLY, META, MSFT, NVDA, TSLA
+
+Enter ticker symbol (or EXIT to quit): Enter start date (MM/dd/yyyy): Enter end date (MM/dd/yyyy): 
+====================================
+Stock Analysis
+====================================
+Ticker: NVDA
+Period: 01/01/2025 - 03/31/2025
+Records Found: 60
+Highest Closing Price: $149.43
+Lowest Closing Price: $106.98
+Average Closing Price: $126.74
+Price Change: -21.64%
+Average Trading Volume: 281,460,689
+Best Trading Day: 01/28/2025 (+8.93%)
+Worst Trading Day: 01/27/2025 (-16.97%)
+
+Show historical records for this period? (Y/N): 
+Enter ticker symbol (or EXIT to quit): Program ended.
