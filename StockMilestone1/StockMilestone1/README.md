@@ -1,6 +1,6 @@
 # Historical Stock Data Analyzer - Milestone 1
 
-A Java console application that loads historical 2025 stock-market CSV files and performs basic analysis for a ticker and date range selected by the user.
+A Java console application that loads historical 2025 stock-market CSV files and performs basic analysis for a ticker and date range selected by the user. #Java #Java #java #java #java #java #java
 
 ## Features
 
@@ -76,13 +76,6 @@ Daily percentage increase/decrease compares a trading day's closing price with t
 
 ## Contributions
 
-Matt Tully - select or search for a stock using its ticker symbol;
-             display historical records for the selected stock;
-             specify a date range for the analysis;
-Matt Lawler - calculate the highest closing price during the selected period;
-              calculate the lowest closing price during the selected period;
-              calculate the average closing price;
-              calculate the percentage price change over the selected period;
-James Walton - calculate the average trading volume;
-               identify the trading day with the largest percentage increase;
-               identify the trading day with the largest percentage decrease.
+#Matt Tully - select or search for a stock using its ticker symbol; display historical records for the selected stock; specify a date range for the analysis;
+#Matt Lawler - calculate the highest closing price during the selected period; calculate the lowest closing price during the selected period; calculate the average closing price; calculate the percentage price change over the selected period;
+#James Walton - calculate the average trading volume; identify the trading day with the largest percentage increase; identify the trading day with the largest percentage decrease.
