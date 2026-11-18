@@ -125,5 +125,4 @@ For the watchlist, the "latest price" is the most recent closing price in the lo
  
 Milestone 1: Matt Tully - select or search for a stock using its ticker symbol; display historical records for the selected stock; specify a date range for the analysis; Matt Lawler - calculate the highest closing price during the selected period; calculate the lowest closing price during the selected period; calculate the average closing price; calculate the percentage price change over the selected period; James Walton - calculate the average trading volume; identify the trading day with the largest percentage increase; identify the trading day with the largest percentage decrease.
  
-Milestone 2: (add who worked on the watchlist, stock comparison, sorting/filtering, and menu)
- 
+Milestone 2: Matt Tully - watchlist (add, remove, display), menu / user interface; Matt Lawler - stock comparison; James Walton - sorting and filtering
